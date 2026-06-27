@@ -1,0 +1,4 @@
+requests>=2.31.0
+windows>=0.2.2
+cryptography>=41.0.0
+pywin32>=306
